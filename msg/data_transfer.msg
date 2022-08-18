@@ -3,6 +3,7 @@ string traffic_light
 
 # Delivery
 string init_Delivery
+string definition_Delivery
 string detect_Delivery
 
 # Go & Stop
