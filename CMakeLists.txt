@@ -6,7 +6,7 @@ find_package(catkin REQUIRED COMPONENTS
   message_generation
 )
 
- add_message_files(FILES data_transfer.msg)
+ add_message_files(FILES traffic_light.msg delivery_state.msg delivery_mission.msg)
  
   generate_messages(
    DEPENDENCIES
